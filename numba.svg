@@ -29,13 +29,13 @@
      showgrid="false"
      inkscape:zoom="2"
      inkscape:cx="242.5"
-     inkscape:cy="79"
+     inkscape:cy="199"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer5"
      width="256px"
      scale-x="1"
      showguides="true"
@@ -598,15 +598,16 @@
        y="192.48552" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#112b00;fill-opacity:1;stroke:none"
-       x="318.23853"
-       y="285.71384"
-       id="text381014"><tspan
+       style="font-style:normal;font-weight:normal;font-size:19.8662px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#112b00;fill-opacity:1;stroke:none;stroke-width:1.24164"
+       x="465.99335"
+       y="228.09183"
+       id="text381014"
+       transform="scale(0.80538727,1.2416387)"><tspan
          sodipodi:role="line"
-         id="tspan381012"
-         x="318.23853"
-         y="285.71384"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';fill:#004455">LLVM IR</tspan></text>
+         x="465.99335"
+         y="228.09183"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.8662px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';text-align:center;text-anchor:middle;fill:#004455;stroke-width:1.24164"
+         id="tspan5126">NATIVE CODE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
